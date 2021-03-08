@@ -1,0 +1,71 @@
+@media screen and (min-width:528px) and (max-width:991px) {
+  #contact .info iframe {
+    margin-top: 50px;
+  }
+}
+
+@media screen and (min-width:410px) and (max-width:527px) {
+  #contact .info iframe {
+    margin-top: 50px;
+    height: 300px;
+    width: 300px;
+  }
+}
+
+@media screen and (min-width:311px) and (max-width:409px) {
+  #contact .info iframe {
+    margin-top: 50px;
+    height: 100%;
+    width: 15em;
+  }
+}
+
+@media screen and (max-width:310px) {
+  #contact .info iframe {
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #business-plan .business-item-info .sebastian img {
+    margin-top: px;
+  }
+  #business-plan .business-item-info p {
+    margin-left: 0px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .hero-area h1 {
+    font-size: 22px !important;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #business-plan .business-item-info h3 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #business-plan .business-item-info p {
+    text-align: center !important;
+  }
+  #business-plan .business-item-info .imagenedge {
+    margin-bottom: 20px;
+  }
+  #business-plan .business-item-info .matias img {
+    margin-bottom: 50px;
+  }
+  #business-plan .business-item-info .sebastian img {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #business-plan .business-item-info .imagenedge img {
+    width: 300px;
+  }
+}

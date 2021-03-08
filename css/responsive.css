@@ -1,0 +1,109 @@
+@media screen and (min-width: 1999px) {
+  .hero-area {
+    height: 800px;
+  }
+}
+
+@media screen and (min-width:528px) and (max-width:991px) {
+  #contact .info iframe {
+    margin-top: 50px;
+  }
+  #business-plan .business-item-info .texto  {
+    margin-top: 50px;
+  }
+}
+
+@media screen and (min-width:410px) and (max-width:527px) {
+  #contact .info iframe {
+    margin-top: 50px;
+    height: 300px;
+    width: 300px;
+  }
+}
+
+@media screen and (min-width:311px) and (max-width:409px) {
+  #contact .info iframe {
+    margin-top: 50px;
+    height: 100%;
+    width: 15em;
+  }
+}
+
+@media screen and (max-width:310px) {
+  #contact .info iframe {
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+  }
+}
+
+/*-----Inicio----*/
+
+@media screen and (min-width: 1635px) and (max-width: 1998px) {
+  .hero-area {
+    height: 850px;
+  }
+}
+
+@media screen and (max-width: 586px) and (max-width: 795px) {
+  .hero-area {
+    height: 630px;
+  }
+}
+
+@media screen and (max-width: 585px) {
+  .hero-area {
+    height: 700px;
+  }
+  .hero-area .contents h2 {
+    font-size: 20px !important;
+  }
+  .hero-area .contents h1 {
+    font-size: 28px;
+    margin-top: 35px;
+  }
+  .hero-area .contents p {
+    font-size: 15px !important;
+    margin-top: 40px;
+  }
+  .hero-area .contents h3 {
+    font-size: 16px;
+    margin-top: 25px;
+  }
+  .hero-area .contents i {
+    font-size: 20px;
+  }
+  #business-plan .business-item-info .texto h1 {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .hero-area {
+    height: 650px;
+  }
+  .hero-area .contents h2 {
+    font-size: 15px !important;
+  }
+  .hero-area .contents h1 {
+    font-size: 20px;
+    margin-top: 35px;
+  }
+  .hero-area .contents p {
+    font-size: 13px !important;
+    margin-top: 40px;
+  }
+  .hero-area .contents h3 {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .hero-area .contents i {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #business-plan .business-item-info .texto  {
+    margin-top: 50px;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "casas",
+  "version": "1.0.0",
+  "description": "Venta de Casas Edge",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "Lucas Riera",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
